@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DollarSense</string>
+    <string name="login_title">Iniciar Sesion</string>
+    <string name="email_hint">Ingresa tu email</string>
+    <string name="password_hint">Ingresa contraseña</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="saltar">Saltar</string>
+</resources>
